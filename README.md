@@ -151,6 +151,7 @@ Your Kali ISO is now mounted and ready to boot.
 
 - The Kali installer should launch
 - Choose: `Graphical Install`
+
   ![image](https://github.com/user-attachments/assets/5c2aeb38-49f8-4e90-93b2-cd4e5bd05c04)
 
 
