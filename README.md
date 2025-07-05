@@ -159,9 +159,9 @@ Now you're inside the Kali Linux installation process. 🎉
 
 ---
 
-> 🧠 Tip: This part might feel "basic", but it's where most people stop. If you made it this far, you're already past the hesitation barrier.
+👉 Next: [Post-Install Tweaks & Tools 🔧](#)
+*Coming soon – alias, themes, terminal upgrades and tools like Burp, Nmap, FFUF, ZSH and more.*
 
-Next section: **Installing Kali step-by-step inside the VM**.
 
 
 
