@@ -159,8 +159,17 @@ Now you're inside the Kali Linux installation process. 🎉
 
 ---
 
-👉 Next: [Post-Install Tweaks & Tools 🔧](#)
+👉 Next: [Post-Install Tweaks & Tools 🔧](#)  
 *Coming soon – alias, themes, terminal upgrades and tools like Burp, Nmap, FFUF, ZSH and more.*
+
+---
+
+📓 I built this setup for myself, from scratch, while learning Red Team step by step.  
+It’s not perfect, but it’s clear, functional, and straight to the point.  
+If it helps you, great. If you can improve it, even better.
+
+— [HexIntuition](https://github.com/HexIntuition)
+
 
 
 
