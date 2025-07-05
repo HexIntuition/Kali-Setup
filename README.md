@@ -57,12 +57,8 @@ Download the latest Kali Linux installer ISO (64-bit) from the official website:
 If you don’t have a virtualization tool installed, download **VirtualBox**:
 
 - 🌐 Website: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
-- 📥 Direct Windows EXE:  
-  [[https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe](https://cdimage.kali.org/kali-2025.2/kali-linux-2025.2-installer-amd64.iso)]([https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe](https://cdimage.kali.org/kali-2025.2/kali-linux-2025.2-installer-amd64.iso))
+ ![image](https://github.com/user-attachments/assets/49b61c8b-0a28-416c-b720-6748aab772f7)
 
-💡 Optional: Download the **VirtualBox Extension Pack** (adds USB 3.0, drag-drop, shared clipboard):
-- 📦 [https://download.virtualbox.org/virtualbox/7.0.18/Oracle_VM_VirtualBox_Extension_Pack-7.0.18.vbox-extpack](https://download.virtualbox.org/virtualbox/7.0.18/Oracle_VM_VirtualBox_Extension_Pack-7.0.18.vbox-extpack)
 
----
 
 
